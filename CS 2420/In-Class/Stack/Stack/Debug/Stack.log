@@ -1,0 +1,21 @@
+﻿  driver.cpp
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(1): error C2143: syntax error: missing ';' before '<'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): error C3484: syntax error: expected '->' before the return type
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): error C3613: missing return type after '->' ('int' assumed)
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): error C2146: syntax error: missing ';' before identifier 'push'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(3): error C2143: syntax error: missing ';' before '<<'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C3927: '->': trailing return type is not allowed after a non-function declarator
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C3484: syntax error: expected '->' before the return type
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C3613: missing return type after '->' ('int' assumed)
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C2086: 'int stack': redefinition
+  c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(2): note: see declaration of 'stack'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(4): error C2146: syntax error: missing ';' before identifier 'push'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(5): error C2143: syntax error: missing ';' before '<<'
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(5): error C2086: 'int cout': redefinition
+  c:\users\schen\onedrive\visual studio\linkedlistpractice\linkedlistpractice\driver.cpp(3): note: see declaration of 'cout'
