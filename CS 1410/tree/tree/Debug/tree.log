@@ -1,0 +1,5 @@
+﻿  tree.cpp
+c:\users\schen\source\repos\tree\tree\tree.cpp(9): warning C4101: 'spaces': unreferenced local variable
+c:\users\schen\source\repos\tree\tree\tree.cpp(8): warning C4101: 'slashspaces': unreferenced local variable
+  tree.vcxproj -> C:\Users\schen\source\repos\tree\Debug\tree.exe
+  tree.vcxproj -> C:\Users\schen\source\repos\tree\Debug\tree.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  sterling.cpp
+  driver.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'gdi32.lib'

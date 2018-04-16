@@ -1,0 +1,17 @@
+﻿  test.cpp
+c:\users\schen\source\repos\project1\project1\test.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\source\repos\project1\project1\test.cpp(1): error C2146: syntax error: missing ';' before identifier 'java'
+c:\users\schen\source\repos\project1\project1\test.cpp(2): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\source\repos\project1\project1\test.cpp(2): error C2086: 'int import': redefinition
+  c:\users\schen\source\repos\project1\project1\test.cpp(1): note: see declaration of 'import'
+c:\users\schen\source\repos\project1\project1\test.cpp(2): error C2146: syntax error: missing ';' before identifier 'java'
+c:\users\schen\source\repos\project1\project1\test.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\schen\source\repos\project1\project1\test.cpp(3): error C2086: 'int import': redefinition
+  c:\users\schen\source\repos\project1\project1\test.cpp(1): note: see declaration of 'import'
+c:\users\schen\source\repos\project1\project1\test.cpp(3): error C2146: syntax error: missing ';' before identifier 'java'
+c:\users\schen\source\repos\project1\project1\test.cpp(7): error C3646: 'isPrime': unknown override specifier
+c:\users\schen\source\repos\project1\project1\test.cpp(7): error C2062: type 'int' unexpected
+c:\users\schen\source\repos\project1\project1\test.cpp(8): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\schen\source\repos\project1\project1\test.cpp(24): error C2062: type 'void' unexpected
+c:\users\schen\source\repos\project1\project1\test.cpp(25): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+c:\users\schen\source\repos\project1\project1\test.cpp(39): fatal error C1004: unexpected end-of-file found

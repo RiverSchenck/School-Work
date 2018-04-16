@@ -1,0 +1,4 @@
+﻿  cpalindrome.cpp
+d:\documents\cs1040\cpalindrome\cpalindrome\cpalindrome.cpp(12): warning C4101: 'test': unreferenced local variable
+  cpalindrome.vcxproj -> D:\Documents\CS1040\cpalindrome\Debug\cpalindrome.exe
+  cpalindrome.vcxproj -> D:\Documents\CS1040\cpalindrome\Debug\cpalindrome.pdb (Partial PDB)
